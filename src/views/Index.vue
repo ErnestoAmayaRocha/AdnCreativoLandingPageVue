@@ -4,9 +4,7 @@
     <section class="header items-center flex todo">
       <div class="container mx-auto flex flex-wrap">
         <div class="w-full md:w-6/12 bg-red-800 text-white">
-          <div
-            class="flex items-center justify-center min-h-screen bg-gray-800"
-          >
+          <div class="flex items-center justify-center min-h-screen bg-gray-800">
             <div class="w-full text-center">
               <div class="sm:pt-0">
                 <h2 class="font-bold text-5xl text-white">
@@ -17,18 +15,13 @@
                   creación de contenido.
                 </p>
                 <div class="mt-12">
-                  <a
-                    href="https://www.instagram.com/adncreativo_socialmarketing/"
-                    target="_blank"
-                    class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                  >
+                  <a href="https://www.instagram.com/adncreativo_socialmarketing/" target="_blank"
+                    class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150">
                     Conócenos
                   </a>
-                  <a
-                    href="https://www.instagram.com/adncreativo_socialmarketing/"
+                  <a href="https://www.instagram.com/adncreativo_socialmarketing/"
                     class="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                    target="_blank"
-                  >
+                    target="_blank">
                     Nuestros trabajos
                   </a>
                 </div>
@@ -38,9 +31,7 @@
         </div>
 
         <div class="w-full md:w-6/12 bg-red-800 text-white p-4 px-5">
-          <div
-            class="flex items-center justify-center min-h-screen bg-gray-800"
-          >
+          <div class="flex items-center justify-center min-h-screen bg-gray-800">
             <div class="text-center">
               <div class="">
                 <img class="" :src="patternVue" alt="..." />
@@ -52,44 +43,21 @@
     </section>
 
     <section class="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
-      <div
-        class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
-        style="transform: translateZ(0)"
-      >
-        <svg
-          class="absolute bottom-0 overflow-hidden"
-          xmlns="http://www.w3.org/2000/svg"
-          preserveAspectRatio="none"
-          version="1.1"
-          viewBox="0 0 2560 100"
-          x="0"
-          y="0"
-        ></svg>
+      <div class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20" style="transform: translateZ(0)">
+        <svg class="absolute bottom-0 overflow-hidden" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"
+          version="1.1" viewBox="0 0 2560 100" x="0" y="0"></svg>
       </div>
       <div class="container mx-auto">
         <div class="flex flex-wrap items-center">
-          <div
-            class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32"
-          >
-            <div
-              class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bgcafe"
-            >
-              <img
-                alt="..."
+          <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32">
+            <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bgcafe">
+              <img alt="..."
                 src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
-                class="w-full align-middle rounded-t-lg"
-              />
+                class="w-full align-middle rounded-t-lg" />
               <blockquote class="relative p-8 mb-4">
-                <svg
-                  preserveAspectRatio="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                  viewBox="0 0 583 95"
-                  class="absolute left-0 w-full block h-95-px -top-94-px"
-                >
-                  <polygon
-                    points="-30,95 583,95 583,65"
-                    class="bgcafe fill-current"
-                  ></polygon>
+                <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
+                  class="absolute left-0 w-full block h-95-px -top-94-px">
+                  <polygon points="-30,95 583,95 583,65" class="bgcafe fill-current"></polygon>
                 </svg>
                 <h4 class="text-xl font-bold text-white">
                   Incrementa tus ganancias con el manejo de redes sociales
@@ -109,8 +77,7 @@
                 <div class="relative flex flex-col mt-4">
                   <div class="px-4 py-5 flex-auto">
                     <div
-                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
-                    >
+                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-camera"></i>
                     </div>
                     <h6 class="text-xl mb-1 font-semibold">
@@ -125,8 +92,7 @@
                 <div class="relative flex flex-col min-w-0">
                   <div class="px-4 py-5 flex-auto">
                     <div
-                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
-                    >
+                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-video"></i>
                     </div>
                     <h6 class="text-xl mb-1 font-semibold">
@@ -143,8 +109,7 @@
                 <div class="relative flex flex-col min-w-0 mt-4">
                   <div class="px-4 py-5 flex-auto">
                     <div
-                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
-                    >
+                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-pencil-alt"></i>
                     </div>
                     <h6 class="text-xl mb-1 font-semibold">
@@ -159,8 +124,7 @@
                 <div class="relative flex flex-col min-w-0">
                   <div class="px-4 py-5 flex-auto">
                     <div
-                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white"
-                    >
+                      class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
                       <i class="fas fa-share-alt"></i>
                     </div>
                     <h6 class="text-xl mb-1 font-semibold">
@@ -669,31 +633,43 @@
       </div>
     </section> -->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <section class="pb-16 bg-blueGray-200 relative pt-32">
-      <div
-        class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
-        style="transform: translateZ(0)"
-      >
-        <svg
-          class="absolute bottom-0 overflow-hidden"
-          xmlns="http://www.w3.org/2000/svg"
-          preserveAspectRatio="none"
-          version="1.1"
-          viewBox="0 0 2560 100"
-          x="0"
-          y="0"
-        >
-          <polygon
-            class="text-blueGray-200 fill-current"
-            points="2560 0 2560 100 0 100"
-          ></polygon>
+      <div class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20" style="transform: translateZ(0)">
+        <svg class="absolute bottom-0 overflow-hidden" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"
+          version="1.1" viewBox="0 0 2560 100" x="0" y="0">
+          <polygon class="text-blueGray-200 fill-current" points="2560 0 2560 100 0 100"></polygon>
         </svg>
       </div>
 
       <div class="container mx-auto">
-        <div
-          class="flex flex-wrap justify-center bg-white shadow-xl rounded-lg -mt-64 py-16 px-12 relative z-10"
-        >
+        <div class="flex flex-wrap justify-center bg-white shadow-xl rounded-lg -mt-64 py-16 px-12 relative z-10">
           <div class="w-full text-center lg:w-8/12">
             <p class="text-4xl text-center"></p>
             <h3 class="font-semibold text-3xl">
@@ -704,11 +680,9 @@
               | Fotografía | Video | Manejo de redes y ➕ 👇🏻 | Contáctame
             </p>
             <div class="sm:block flex flex-col mt-10">
-              <a
-                href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
+              <a href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
                 target="_blank"
-                class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-              >
+                class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150">
                 Enviar mensaje de Whatsapp
               </a>
               <!--  <a
@@ -725,6 +699,345 @@
         </div>
       </div>
     </section>
+
+
+
+
+
+
+
+
+    <section>
+      <div class="container mb-5    mx-auto py-12 px-6">
+        <h1 class="text-center text-4xl text-black font-medium leading-snug tracking-wider">
+          Manejo de Redes
+        </h1>
+        <p class="text-center text-lg text-gray-700 mt-2 px-6">
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam.
+        </p>
+        <div class="h-1 mx-auto bg-indigo-200 w-24 opacity-75 mt-4 rounded"></div>
+
+        <div class="max-w-full md:max-w-6xl mx-auto my-3 md:px-8">
+          <div class="relative block flex flex-col md:flex-row items-center">
+            <div class="w-11/12 max-w-sm sm:w-3/5 lg:w-1/3 sm:my-5 my-8 relative z-0 rounded-lg shadow-lg md:-mr-4">
+              <div class="bg-white text-black rounded-lg shadow-inner shadow-lg overflow-hidden">
+                <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-8 lg:px-6">
+                  <h1 class="text-lg font-medium uppercase p-3 pb-0 text-center tracking-wide">
+                    BÁSICO
+                  </h1>
+                  <h2 class="text-sm text-gray-500 text-center pb-6">$2,200 / mes</h2>
+
+                  <p class="p-5"> PLAN BASICO MANEJO DE 2 REDES SOCIALES CONTRATO MINIMO 1 MES</p>
+                </div>
+
+                <div class="flex flex-wrap mt-3 px-6">
+                  <ul>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">12 POST MENSUALES</span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">4 HISTORIAS SEMANALES</span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">SEGMENTACION Y
+                        OPTIMIZACION DE CUENTAS
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">1 CAMPAÑA PUBLICITARIA
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">ACTUALIZACION DE FOTO DE
+                        PERFIL Y PORTADA MENSUAL
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">REPORTE MENSUAL
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">12 FOTOGRAFÍAS
+
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">2 REELS MENSUALES
+
+
+
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+                <div class="block flex items-center p-8  uppercase">
+                  <button
+                    class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
+                    Select
+                  </button>
+                </div>
+              </div>
+            </div>
+
+
+
+            <div class="w-full max-w-md sm:w-2/3 lg:w-1/3 sm:my-5 my-8 relative z-10 bg-white rounded-lg shadow-lg">
+              <div
+                class="text-sm leading-none rounded-t-lg bg-gray-200 text-black font-semibold uppercase py-4 text-center tracking-wide">
+                Mejor Valor
+              </div>
+              <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-8 lg:px-6">
+                <h1 class="text-lg font-medium uppercase p-3 pb-0 text-center tracking-wide">
+                  PREMIUM
+                </h1>
+                <h2 class="text-sm text-gray-500 text-center pb-6"><span class="text-3xl">$4,000
+                    MENSUALES</span></h2>
+
+                <p class="p-5"> PLAN PREMIUM MANEJO DE 3 REDES SOCIALES CONTRATO MINIMO 3 MESES</p>
+              </div>
+              <div class="flex pl-12 justify-start sm:justify-start mt-3">
+                <ul>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">24 POST MENSUALES</span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">9 HISTORIAS SEMANALES</span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">SEGMENTACION Y
+                      OPTIMIZACION DE CUENTAS
+                    </span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">2 CAMPAÑAS PUBLICITARIAS
+                    </span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">ACTUALIZACION DE FOTO DE
+                      PERFIL Y PORTADA MENSUAL
+
+                    </span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">REPORTE MENSUAL
+
+                    </span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">24 FOTOGRAFÍAS
+
+
+                    </span>
+                  </li>
+                  <li class="flex items-center">
+                    <div class=" rounded-full p-2 fill-current text-green-700">
+                      <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                        <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                      </svg>
+                    </div>
+                    <span class="text-gray-700 text-lg ml-3">8 REELS MENSUALES
+
+
+
+                    </span>
+                  </li>
+                </ul>
+              </div>
+
+              <div class="block flex items-center p-8  uppercase">
+                <button
+                  class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
+                  Select
+                </button>
+              </div>
+            </div>
+            <div class="w-11/12 max-w-sm sm:w-3/5 lg:w-1/3 sm:my-5 my-8 relative z-0 rounded-lg shadow-lg md:-ml-4">
+              <div class="bg-white text-black rounded-lg shadow-inner shadow-lg overflow-hidden">
+                <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-8 lg:px-6">
+                  <h1 class="text-lg font-medium uppercase p-3 pb-0 text-center tracking-wide">
+                    Enterprise
+                  </h1>
+                  <h2 class="text-sm text-gray-500 text-center pb-6">€39 /mo</h2>
+
+                  <p class="p-4"> St1ripe offers everything needed to run an online business at scale. Get in touch for
+                    details.</p>
+                </div>
+                <div class="flex flex-wrap mt-3 px-6">
+                  <ul>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">Electric</span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">Monthly</span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">No setup</span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div class="block flex items-center p-8  uppercase">
+                  <button
+                    class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
+                    Select
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <footer-component />
   </div>
 </template>
@@ -771,6 +1084,7 @@ export default {
 .todo {
   background-color: #bbc9ca;
 }
+
 .bgcafe {
   background-color: #c0b9a7;
   color: #c0b9a7;

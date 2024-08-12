@@ -712,10 +712,10 @@
         <h1 class="text-center text-4xl text-black font-medium leading-snug tracking-wider">
           Manejo de Redes
         </h1>
-        <p class="text-center text-lg text-gray-700 mt-2 px-6">
+        <!-- <p class="text-center text-lg text-gray-700 mt-2 px-6">
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
           aperiam.
-        </p>
+        </p> -->
         <div class="h-1 mx-auto bg-indigo-200 w-24 opacity-75 mt-4 rounded"></div>
 
         <div class="max-w-full md:max-w-6xl mx-auto my-3 md:px-8">
@@ -831,10 +831,11 @@
                   </ul>
                 </div>
                 <div class="block flex items-center p-8  uppercase">
-                  <button
-                    class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
-                    Select
-                  </button>
+                  <a href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
+                    target="_blank"
+                    class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150">
+                    Seleccionar
+                  </a>
                 </div>
               </div>
             </div>
@@ -956,22 +957,25 @@
               </div>
 
               <div class="block flex items-center p-8  uppercase">
-                <button
-                  class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
-                  Select
-                </button>
+                <a href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
+                  target="_blank"
+                  class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150">
+                  Seleccionar
+                </a>
               </div>
             </div>
+
+
+
             <div class="w-11/12 max-w-sm sm:w-3/5 lg:w-1/3 sm:my-5 my-8 relative z-0 rounded-lg shadow-lg md:-ml-4">
               <div class="bg-white text-black rounded-lg shadow-inner shadow-lg overflow-hidden">
                 <div class="block text-left text-sm sm:text-md max-w-sm mx-auto mt-2 text-black px-8 lg:px-6">
                   <h1 class="text-lg font-medium uppercase p-3 pb-0 text-center tracking-wide">
-                    Enterprise
+                    Personalizado
                   </h1>
-                  <h2 class="text-sm text-gray-500 text-center pb-6">€39 /mo</h2>
+                  <!-- <h2 class="text-sm text-gray-500 text-center pb-6">€39 /mo</h2> -->
 
-                  <p class="p-4"> St1ripe offers everything needed to run an online business at scale. Get in touch for
-                    details.</p>
+                  <p class="p-4"> PLAN PERSONALIZADO MANEJO DE 3 REDES SOCIALES CONTRATO MINIMO 3 MESES</p>
                 </div>
                 <div class="flex flex-wrap mt-3 px-6">
                   <ul>
@@ -983,7 +987,7 @@
                           <polyline points="22 4 12 14.01 9 11.01"></polyline>
                         </svg>
                       </div>
-                      <span class="text-gray-700 text-lg ml-3">Electric</span>
+                      <span class="text-gray-700 text-lg ml-3">24 POST MENSUALES</span>
                     </li>
                     <li class="flex items-center">
                       <div class=" rounded-full p-2 fill-current text-green-700">
@@ -993,7 +997,7 @@
                           <polyline points="22 4 12 14.01 9 11.01"></polyline>
                         </svg>
                       </div>
-                      <span class="text-gray-700 text-lg ml-3">Monthly</span>
+                      <span class="text-gray-700 text-lg ml-3">9 HISTORIAS SEMANALES</span>
                     </li>
                     <li class="flex items-center">
                       <div class=" rounded-full p-2 fill-current text-green-700">
@@ -1003,19 +1007,162 @@
                           <polyline points="22 4 12 14.01 9 11.01"></polyline>
                         </svg>
                       </div>
-                      <span class="text-gray-700 text-lg ml-3">No setup</span>
+                      <span class="text-gray-700 text-lg ml-3">SEGMENTACION Y
+                        OPTIMIZACION DE CUENTAS
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">2 CAMPAÑAS PUBLICITARIAS
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">ACTUALIZACION DE FOTO DE
+                        PERFIL Y PORTADA MENSUAL
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">REPORTE MENSUAL
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">24 FOTOGRAFÍAS
+
+
+                      </span>
+                    </li>
+                    <li class="flex items-center">
+                      <div class=" rounded-full p-2 fill-current text-green-700">
+                        <svg class="w-6 h-6 align-middle" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                          stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                          <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                          <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                        </svg>
+                      </div>
+                      <span class="text-gray-700 text-lg ml-3">8 REELS MENSUALES
+
+
+
+                      </span>
                     </li>
                   </ul>
                 </div>
 
                 <div class="block flex items-center p-8  uppercase">
-                  <button
-                    class="mt-3 text-lg font-semibold bg-black w-full text-white rounded-lg px-6 py-3 block shadow-xl hover:bg-gray-700">
-                    Select
-                  </button>
+                  <a href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
+                    target="_blank"
+                    class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-emerald-500 active:bg-emerald-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150">
+                    Seleccionar
+                  </a>
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section>
+      <div class="row">
+        <h3 class="otros-servicios text-xl font-bold text-gray">
+          Incrementa tus ganancias con el manejo de redes sociales
+        </h3>
+      </div>
+      <div class="row">
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-laptop"></i>
+            </div>
+            <h3>Diseño de pagina web</h3>
+            <p>
+              Ideal para empresas y emprendedores que buscan destacar en la web, este paquete ofrece todo lo que necesitas para tener un sitio web impresionante y funcional.
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-camera-retro"></i>
+            </div>
+            <h3>Sesión fotográfica</h3>
+            <p>
+              Perfecto para eventos, retratos personales, o fotografía de productos, este paquete te ofrece una experiencia fotográfica completa y de alta calidad.
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-video"></i>
+            </div>
+            <h3>Video promocional</h3>
+            <p>
+              Impulsa tu marca y capta la atención de tu audiencia este paquete te ofrece una solución completa para crear un video atractivo y efectivo.
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-thumbs-up"></i>
+            </div>
+            <h3>Asesoría en presencia digital</h3>
+            <p>
+              Este paquete ofrece una guía experta para construir y mantener una presencia sólida y efectiva, (Google Maps , Facebook, Whatsapp Business Instagram, Tik Tok)
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-person-chalkboard"></i>
+            </div>
+            <h3>Tarjetas de presentacion</h3>
+            <p>
+              Haz una primera impresión duradera. Perfecto para profesionales, emprendedores y empresas que buscan destacar en sus interacciones de networking, este paquete ofrece un diseño elegante y personalizado que refleja la identidad y valores de tu marca.
+            </p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <div class="icon-wrapper">
+              <i class="fas fa-book"></i>
+            </div>
+            <h3>Diseño de menú</h3>
+            <p>
+              Diseño de Menú Personalizado. Ideal para restaurantes, cafeterías, bares y cualquier establecimiento de comida, este paquete te ofrece un diseño de menú atractivo y funcional que realza tu oferta culinaria y refuerza la identidad de tu marca.
+            </p>
           </div>
         </div>
       </div>
@@ -1081,6 +1228,10 @@ export default {
 </script>
 
 <style>
+.otros-servicios{
+  font-size: 35px;
+  
+}
 .todo {
   background-color: #bbc9ca;
 }
@@ -1088,5 +1239,110 @@ export default {
 .bgcafe {
   background-color: #c0b9a7;
   color: #c0b9a7;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  width: 100%;
+  padding: 0 1em 1em 1em;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+  padding: 2em 1.5em;
+  background: linear-gradient(#ffffff 50%, #a8c0be 50%);
+  background-size: 100% 200%;
+  background-position: 0 2.5%;
+  border-radius: 5px;
+  box-shadow: 0 0 35px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f194c;
+  margin: 1em 0;
+}
+
+p {
+  color: #575a7b;
+  font-size: 15px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+}
+
+.icon-wrapper {
+  background-color: #a8c0be;
+  position: relative;
+  margin: auto;
+  font-size: 30px;
+  height: 2.5em;
+  width: 2.5em;
+  color: #ffffff;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  transition: 0.5s;
+}
+
+.card:hover {
+  background-position: 0 100%;
+}
+
+.card:hover .icon-wrapper {
+  background-color: #ffffff;
+  color: #334155;
+}
+
+.card:hover h3 {
+  color: #ffffff;
+}
+
+.card:hover p {
+  color: #f0f0f0;
+}
+
+@media screen and (min-width: 768px) {
+  section {
+    padding: 0 2em;
+  }
+
+  .column {
+    flex: 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  section {
+    padding: 1em 3em;
+  }
+
+  .column {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+  }
 }
 </style>

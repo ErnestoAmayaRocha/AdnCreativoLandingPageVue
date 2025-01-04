@@ -5,7 +5,7 @@
       <div class="container mx-auto flex flex-wrap">
         <div class="w-full md:w-6/12 bg-red-800 text-white">
           <div class="flex items-center justify-center min-h-screen bg-gray-800">
-            <div class="w-full text-center">
+            <div class="w-full text-center mt-5">
               <div class="sm:pt-0">
                 <h2 class="font-bold text-5xl text-white">
                   ADN Creativo | Agencia De Marketing Dgo
@@ -1249,7 +1249,7 @@ export default {
 }
 
 section {
-  height: 100vh;
+  
   width: 100%;
   display: grid;
   place-items: center;

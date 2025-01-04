@@ -2570,6 +2570,43 @@ select {
   min-height: 100vh;
 }
 
+
+@media (max-width: 768px) { 
+  .min-h-screen {
+    min-height: 100px;
+   
+  }
+}
+
+@media (max-width: 768px) { 
+  .sm\:pt-0 {
+    margin-top: 60%; 
+  }
+}
+
+
+@media (max-width: 768px) { /* Ajusta el ancho según lo que consideres "móvil" */
+  .w-full.md\:w-6\/12.bg-red-800.text-white.p-4.px-5 {
+    margin-bottom: 60%; /* Ajusta el valor según tus necesidades */
+  }
+  .otros-servicios.text-xl.font-bold.text-gray {
+    text-align: center;
+  }
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .min-h-screen-75 {
   min-height: 75vh;
 }

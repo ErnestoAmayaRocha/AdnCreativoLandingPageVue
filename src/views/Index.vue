@@ -42,14 +42,14 @@
       </div>
     </section>
 
-    <section class="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
+    <section class="mt-48 md:mt-40 pb-40 relative bg-blueGray-100" >
       <div class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20" style="transform: translateZ(0)">
         <svg class="absolute bottom-0 overflow-hidden" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"
           version="1.1" viewBox="0 0 2560 100" x="0" y="0"></svg>
       </div>
-      <div class="container mx-auto">
+      <div class="container mx-auto ">
         <div class="flex flex-wrap items-center">
-          <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32">
+          <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32 mb-5">
             <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bgcafe">
               <img alt="..."
                 src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
@@ -1092,7 +1092,7 @@
     </section>
 
 
-    <section>
+    <section style="margin-bottom: 8%;">
       <div class="row">
         <h3 class="otros-servicios text-xl font-bold text-gray">
           Incrementa tus ganancias con el manejo de redes sociales

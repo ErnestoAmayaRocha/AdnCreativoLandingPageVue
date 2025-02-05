@@ -53,24 +53,24 @@
             </button> -->
           </div>
         </div>
-        <!--   <div class="w-full lg:w-6/12 px-4">
+          <div class="w-full lg:w-6/12 px-4">
           <div class="flex flex-wrap items-top mb-6">
             <div class="w-full lg:w-4/12 px-4 ml-auto">
               <span
                 class="block uppercase text-blueGray-500 text-sm font-semibold mb-2"
               >
-                Useful Links
+                Legal
               </span>
               <ul class="list-unstyled">
                 <li>
                   <a
                     class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                    href="https://www.creative-tim.com/presentation?ref=vn-footer"
+                    href="/terminos-condiciones" target="_blank"
                   >
-                    About Us
+                    Terminos y Condiciones
                   </a>
                 </li>
-                <li>
+<!--                 <li>
                   <a
                     class="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
                     href="https://blog.creative-tim.com?ref=vn-footer"
@@ -93,10 +93,10 @@
                   >
                     Free Products
                   </a>
-                </li>
+                </li> -->
               </ul>
             </div>
-            <div class="w-full lg:w-4/12 px-4">
+          <!--   <div class="w-full lg:w-4/12 px-4">
               <span
                 class="block uppercase text-blueGray-500 text-sm font-semibold mb-2"
               >
@@ -136,9 +136,9 @@
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> -->
           </div>
-        </div> -->
+        </div> 
       </div>
       <hr class="my-6 border-blueGray-300" />
       <div

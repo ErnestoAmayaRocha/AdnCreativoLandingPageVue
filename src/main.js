@@ -79,7 +79,7 @@ const routes = [
     component: Landing,
   },
   {
-    path: "/profile",
+    path: "/terminos-condiciones",
     component: Profile,
   },
   {

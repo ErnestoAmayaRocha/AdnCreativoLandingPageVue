@@ -35,7 +35,7 @@
             <div class="text-center">
               <div class="">
                 <img class="" :src="patternVue" alt="..." />
-                  <img class=""  :src="vipromor" alt="..." />
+                  <img class="" style="display: none;" :src="vipromor" alt="..." />
               </div>
             </div>
           </div>

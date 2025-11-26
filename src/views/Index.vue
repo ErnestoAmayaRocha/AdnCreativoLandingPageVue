@@ -680,6 +680,7 @@
               | Fotografía | Video | Manejo de redes y ➕ 👇🏻 | Contáctame
             </p>
           <img class="" :src="vipromor" alt="..." />
+          <p>fail</p>
             <div class="sm:block flex flex-col mt-10">
               <a href="https://wa.me/6181788315?text=Hola%20ADN%20Creativo,%20me%20gustaría%20obtener%20más%20información%20sobre%20sus%20servicios"
                 target="_blank"
@@ -1194,7 +1195,7 @@ import IndexNavbar from "@/components/Navbars/IndexNavbar.vue";
 import FooterComponent from "@/components/Footers/Footer.vue";
 
 import patternVue from "@/assets/img/iphones.png";
-import vipromor from "@assets/img/vipromor.svg";
+import vipromor from "@assets/img/Vipromor.svg";
 import componentBtn from "@/assets/img/component-btn.png";
 import componentProfileCard from "@/assets/img/component-profile-card.png";
 import componentInfoCard from "@/assets/img/component-info-card.png";
